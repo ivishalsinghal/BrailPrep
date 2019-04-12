@@ -8,7 +8,7 @@ pageEncoding="ISO-8859-1"%>
 <title>Day21</title>
 </head>
 <body>
- 
+ <%=12345 %>
 	<center>
 		<h2>Welcome to Jenkins Tutorial</h2>
 		<h3>
